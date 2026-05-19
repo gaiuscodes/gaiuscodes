@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Timothy Odhiambo</h1>
-<h3 align="center">Software Developer | DevOps Explorer | Automation Builder</h3>
+<h1 align="center">Hey 👋, I'm Timothy Gaius Odhiambo</h1>
+<h3 align="center">Software Developer | DevOps | Automation Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;DevOps+Enthusiast;Automation+Engineer;AI+for+Software+Engineering" />
@@ -65,7 +65,6 @@ I enjoy designing systems that are efficient, maintainable, and production-ready
 <p align="center">
   <img src="https://github.com/gaiuscodes/gaiuscodes/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
----
 
 
 
